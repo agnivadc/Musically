@@ -1,0 +1,2 @@
+font-family: 'Mukta', sans-serif;
+font-family: 'Prompt', sans-serif;
